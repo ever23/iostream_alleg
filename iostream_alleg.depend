@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1422134013 source:d:\programacion\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\iostream_alleg.cpp
+	"iostream_alleg.h"
+	"internal/alle_stream.h"
+
+1422978804 d:\programacion\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\iostream_alleg.h
+	"internal/alle_scanf.h"
+	"internal/alle_stream.hpp"
+	"internal/cadena.hpp"
+
+1422925315 d:\programacion\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\internal\alle_scanf.h
+	<allegro.h>
+
+1422904176 d:\programacion\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\internal\alle_stream.h
+	"cadena.h"
+	<allegro.h>
+
+1422924993 d:\programacion\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\internal\cadena.h
+	<iostream>
+	<string.h>
+	<sstream>
+
+1422926895 source:d:\programacion\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\main.cpp
+	"main.h"
+	"iostream_alleg.h"
+
+1422571871 d:\programacion\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\main.h
+
+1422900591 source:d:\programacion\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\src\alle_scanf.c
+	"../internal/alle_scanf.h"
+	<stdarg.h>
+	<string.h>
+
+1422798136 source:d:\programacion\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\src\cadena.cpp
+	"../internal/cadena.h"
+
+1422904115 source:d:\programacion\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\src\alle_stream.cpp
+	"../internal/alle_stream.h"
+
+1422134013 source:e:\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\iostream_alleg.cpp
+	"iostream_alleg.h"
+	"internal/alle_stream.h"
+
+1422575155 e:\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\iostream_alleg.h
+	"internal/alle_scanf.h"
+	"internal/alle_stream.h"
+	"internal/cadena.h"
+
+1422574161 e:\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\internal\alle_scanf.h
+	<allegro.h>
+	<allegro5.h>
+	<allegro5/allegro_ttf.h>
+
+1422574463 e:\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\internal\alle_stream.h
+	<allegro.h>
+	"cadena.h"
+
+1422573044 e:\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\internal\cadena.h
+	<iostream>
+	<string.h>
+	<sstream>
+
+1422572684 source:e:\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\main.cpp
+	"main.h"
+	"iostream_alleg.h"
+
+1422571871 e:\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\main.h
+
+1422548354 source:e:\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\src\alle_scanf.c
+	"../internal/alle_scanf.h"
+	<stdarg.h>
+	<string.h>
+
+1422572684 source:e:\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\src\alle_stream.cpp
+	"../internal/alle_stream.h"
+
+1422978804 d:\programacion\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\internal\alle_stream.hpp
+	"cadena.hpp"
+	<allegro.h>
+
+1422978741 d:\programacion\programas en c++\allegro\mi_lib_allegro\libs_allegro\iostream_alleg\internal\cadena.hpp
+	<iostream>
+	<string.h>
+	<sstream>
+
